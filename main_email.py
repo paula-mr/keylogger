@@ -11,7 +11,7 @@ keys = []
 
 def send_email():
 	fromaddr = "segurancateste2@gmail.com"
-	toaddr = "vitorricoy@yahoo.com.br"
+	toaddr = "paula.mribeiro05@gmail.com"
 	msg = MIMEMultipart() 
 	msg['From'] = fromaddr 
 	msg['To'] = toaddr 
